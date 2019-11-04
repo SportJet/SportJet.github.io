@@ -16,4 +16,4 @@ minima:
 # - about.md
 
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
