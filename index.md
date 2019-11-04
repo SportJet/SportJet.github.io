@@ -9,8 +9,7 @@ layout: default
 ---
 
 <h1 align="center">SportJet</h1>
-<p align="center">
-Une création "original" - Lycée de Lorgues
+<p align="center">Une création "original" - Lycée de Lorgues</p>
 
 <p align="center"><b>SportJet</b> est un <u>Mini projet</u> de <u>BTS Snir</u>.</p>
 
