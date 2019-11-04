@@ -15,16 +15,12 @@ Une création "original" - Lycée de Lorgues
 <p align="center"><b>SportJet</b> est un <u>Mini projet</u> de <u>BTS Snir</u>.</p>
 
 <h2>Utilisation</h2>
-**SportJet** est un ensemble matériel.
-![enter image description here](https://github.com/SportJet/SportJet.github.io/raw/master/img/shem1.png)un Arduino est connecter au réseau via une connexion Ethernet et peut etre controler via un Appareil Android.
+<b>SportJet</b> est un ensemble matériel.
+<img src="https://github.com/SportJet/SportJet.github.io/raw/master/img/shem1.png" alt="shem">
+<p>un Arduino est connecter au réseau via une connexion Ethernet et peut etre controler via un Appareil Android.</p>
 
-## Mise en place - Lancement ( En Dev)
-
-
-__**Exécuter l'application**__
-```bash
+<h2>Mise en place - Lancement ( En Dev)</h2>
 A venir
-```
 
 <h1> UML</h1>
 <img src="https://github.com/SportJet/SportJet.github.io/raw/master/img/fig128014.png" alt="uml1">
