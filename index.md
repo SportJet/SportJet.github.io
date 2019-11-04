@@ -6,7 +6,7 @@
 <p align="center"><b>SportJet</b> est un <u>Mini projet</u> de <u>BTS Snir</u>.</p>
 
 <h2>Utilisation</h2>
-<b>SportJet</b> est un ensemble matériel.
+<p><b>SportJet</b> est un ensemble matériel.</p>
 <img src="https://github.com/SportJet/SportJet.github.io/raw/master/img/shem1.png" alt="shem">
 <p>un Arduino est connecter au réseau via une connexion Ethernet et peut etre controler via un Appareil Android.</p>
 
