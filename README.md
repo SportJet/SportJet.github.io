@@ -34,3 +34,5 @@ Scénarii:
 - Il signale la fin d&#39;une période.
 
 ![class](https://github.com/SportJet/SportJet.github.io/raw/master/img/fig128015.png)
+
+![DDB](https://github.com/SportJet/SportJet.github.io/raw/master/img/united.png)
