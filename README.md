@@ -18,8 +18,6 @@ A venir
 ```
 
 # UML
-
-#
 ![use case](https://github.com/SportJet/SportJet.github.io/raw/master/img/fig128014.png)
 
 
@@ -34,5 +32,5 @@ Scénarii:
 - Il signale la fin d&#39;une période.
 
 ![class](https://github.com/SportJet/SportJet.github.io/raw/master/img/fig128015.png)
-
+# UML
 ![DDB](https://github.com/SportJet/SportJet.github.io/raw/master/img/Untitled.png)
