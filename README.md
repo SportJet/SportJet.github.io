@@ -31,9 +31,8 @@ Scénarii:
 - L&#39;arbitre assistant enregistrer le score de la partie, puis le transmettre à la fédération.
 - Il signale la fin d&#39;une période.
 
-![class](https://github.com/SportJet/SportJet.github.io/raw/master/img/fig128015.png)
-![class](https://github.com/SportJet/SportJet.github.io/raw/master/img/fig128125.png)
-![class](https://github.com/SportJet/SportJet.github.io/raw/master/img/fig134670.png)
+![Diagramme de sequence partie](https://github.com/SportJet/SportJet.github.io/raw/master/img/fig128125.png)
+![Diagramme de sequence chrono](https://github.com/SportJet/SportJet.github.io/raw/master/img/fig134670.png)
 # BDD
 ![DDB](https://github.com/SportJet/SportJet.github.io/raw/master/img/Untitled.png)
 
