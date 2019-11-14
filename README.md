@@ -18,6 +18,7 @@ A venir
 ```
 
 # UML
+## Diagram de déploiment
 ![use case](https://github.com/SportJet/SportJet.github.io/raw/master/img/fig128014.png)
 
 
@@ -31,7 +32,9 @@ Scénarii:
 - L&#39;arbitre assistant enregistrer le score de la partie, puis le transmettre à la fédération.
 - Il signale la fin d&#39;une période.
 
+## Diagramme de sequence partie
 ![Diagramme de sequence partie](https://github.com/SportJet/SportJet.github.io/raw/master/img/fig128125.png)
+## Diagramme de sequence chrono
 ![Diagramme de sequence chrono](https://github.com/SportJet/SportJet.github.io/raw/master/img/fig134670.png)
 # BDD
 ![DDB](https://github.com/SportJet/SportJet.github.io/raw/master/img/Untitled.png)
