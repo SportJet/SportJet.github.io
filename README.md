@@ -33,6 +33,6 @@ Scénarii:
 
 ![class](https://github.com/SportJet/SportJet.github.io/raw/master/img/fig128015.png)
 ![class](https://github.com/SportJet/SportJet.github.io/raw/master/img/fig128125.png)
-# UML
+# BDD
 ![DDB](https://github.com/SportJet/SportJet.github.io/raw/master/img/Untitled.png)
 
