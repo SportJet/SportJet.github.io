@@ -31,4 +31,3 @@ Permet d'envoier des ordres via des Socket sur le réseau, il permet donc de con
 ![Diagramme de sequence chrono](https://github.com/SportJet/SportJet.github.io/raw/master/img/fig134670.png)
 # BDD
 ![DDB](https://github.com/SportJet/SportJet.github.io/raw/master/img/Untitled.png)
-
