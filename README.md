@@ -5,7 +5,7 @@ Une création "**original**" - Lycée de Lorgues
 
 ## Utilisation
 **SportJet** est un ensemble matériel.
-![shem](https://github.com/SportJet/SportJet.github.io/raw/master/img/shem1.png)
+![shem](https://github.com/SportJet/SportJet.github.io/raw/master/web/img/shem.png)
 un Arduino est connecter au réseau via une connexion Ethernet et peut etre controler via un Appareil Android.
 
 # Mise en place - Lancement ( En Dev)
@@ -18,7 +18,7 @@ Permet d'envoier des ordres via des Socket sur le réseau, il permet donc de con
 
 # UML
 ## Diagram de déploiment
-![use case](https://github.com/SportJet/SportJet.github.io/raw/master/img/fig128014.png)
+![use case](https://github.com/SportJet/SportJet.github.io/raw/master/web/img/usecase.png)
 
 ## Scénarii
 - L&#39;arbitre assistant démarre une partie. Le chronomètre démarre. Le score s&#39;initialise à 0:0.
@@ -29,10 +29,10 @@ Permet d'envoier des ordres via des Socket sur le réseau, il permet donc de con
 - Il signale la fin d&#39;une période.
 
 ## Diagramme de sequence partie
-![Diagramme de sequence partie](https://github.com/SportJet/SportJet.github.io/raw/master/img/fig128125.png)
+![Diagramme de sequence partie](https://github.com/SportJet/SportJet.github.io/raw/master/web/img/sec1.png)
 
 ## Diagramme de sequence chrono
-![Diagramme de sequence chrono](https://github.com/SportJet/SportJet.github.io/raw/master/img/fig134670.png)
+![Diagramme de sequence chrono](https://github.com/SportJet/SportJet.github.io/raw/master/web/img/sec2.png)
 
 # BDD
-![DDB](https://github.com/SportJet/SportJet.github.io/raw/master/img/Untitled.png)
+![DDB](https://github.com/SportJet/SportJet.github.io/raw/master/web/img/bdd.png)
