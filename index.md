@@ -1,6 +1,3 @@
 ---
 layout: default
 ---
----
-include: readme
----
