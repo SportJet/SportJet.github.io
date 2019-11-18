@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # SportJet
 
 Une création "**original**" - Lycée de Lorgues
